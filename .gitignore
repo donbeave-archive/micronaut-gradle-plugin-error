@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Gradle
+build
+.gradle
+
+# JetBrains
+.idea
+*.iml
+out

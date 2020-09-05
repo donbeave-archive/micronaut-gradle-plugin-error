@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: polusharie-graphql
+  server:
+    port: 6001
